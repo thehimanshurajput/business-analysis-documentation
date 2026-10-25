@@ -64,3 +64,7 @@ Documents user interactions with the system, including actors, preconditions, no
 - Lucid
 - Axure
 - Microsoft Office
+
+## Banking Case Studies
+
+Independent case studies covering digital account opening, loan origination workflows, and regulatory compliance. These are scenario-based analysis artifacts; they do not represent client delivery or production implementation. [Browse the portfolio](banking-case-studies/README.md).
